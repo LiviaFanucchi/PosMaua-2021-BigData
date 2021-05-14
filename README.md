@@ -10,4 +10,3 @@ Descrição de como o  repositório está organizado.
 ## Links Relevantes: 
 
 - [Curso de Linuxs da 4Linuxs] (https://4linux.com.br/cursos/treinamento/linux-beginners-in-cloud/)
-- 
